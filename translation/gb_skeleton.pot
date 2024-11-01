@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-21 16:52+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Lionel Pointet <lionel.pointet@globalis-ms.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: Z:\\webperso\\veille\\wordpress\\wp-content\\plugins\\gb_skeleton\\include\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lang.php:5
+msgid "Yes"
+msgstr ""
+
+#: lang.php:6
+msgid "No"
+msgstr ""
+
+#: lang.php:11
+msgid "Examples"
+msgstr ""
+
+#: lang.php:12
+msgid "Families"
+msgstr ""
+
+#: lang.php:17
+msgid "Skeleton Plugin Administration"
+msgstr ""
+
+#: lang.php:18
+msgid "Skeleton settings"
+msgstr ""
+
+#: lang.php:19
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: lang.php:20
+msgid "Launch manual cron"
+msgstr ""
+
+#: lang.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: lang.php:22
+msgid "Show example UI?"
+msgstr ""
+
+#: lang.php:23
+msgid "Send mail with Cron Job?"
+msgstr ""
+
+#: lang.php:24
+msgid "Settings"
+msgstr ""
+
+#: lang.php:25
+msgid "Main Skeleton Settings"
+msgstr ""
+
+#: lang.php:26
+msgid "The main settings of Skeleton plugin"
+msgstr ""
+
+#: lang.php:31
+msgid "The most recent Examples on your site"
+msgstr ""
+
+#: lang.php:32
+msgid "Recent examples"
+msgstr ""
+
+#: lang.php:33
+msgid "Title:"
+msgstr ""
+
+#: lang.php:34
+msgid "Number of examples to show:"
+msgstr ""
+
+#: lang.php:39
+#, php-format
+msgid "This is a shortcode example %d"
+msgstr ""
+
+#: lang.php:40
+msgid "Please enter the num"
+msgstr ""
+
+#: lang.php:41
+msgid "Example shortcode"
+msgstr ""
+
+#: lang.php:42
+msgid "Example shortcode plugin"
+msgstr ""
+
+#: lang.php:47
+msgid "An ajax call has been made!"
+msgstr ""
+
